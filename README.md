@@ -10,7 +10,7 @@
 
 
 <li><p><a href="https://github.com/MeiJohnson/webdevelop/tree/master/2sem/%D0%A2%D0%B5%D0%BC%D0%B0%201/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%202/cart_task">Корзина с товарами</a></p></li>
-<li><p><a href="https://github.com/t-anastasia/web/tree/master/UniversitySubjects/WEB(4sem)/Micsher Color">MicsherColor</a></p></li>
+<li><p><a href="https://github.com/t-anastasia/web/tree/master/UniversitySubjects/WEB(4sem)/Micsher Color">MicsherColor yt</a></p></li>
 <li><p><a href="https://kodaktor.ru/g/mymixer_60675">ИСР 1 Интерфейс микшера</a></p></li>
 <li><p><a href="https://github.com/t-anastasia/web/tree/master/UniversitySubjects/WEB(4sem)/Canvas">Canvas</a></p></li>
 
